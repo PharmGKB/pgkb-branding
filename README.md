@@ -1,5 +1,21 @@
 # Trademark, Branding, and Logo
 
+<table>
+  <tr>
+    <th>Wordmark</th>
+    <td><img src="wordmark/wordmark.svg" height="128" /></td>
+  </tr>
+  <tr>
+    <th>Logo</th>
+    <td><img src="logo/logo.svg" height="128" /></td>
+  </tr>
+  <tr>
+    <th>Icon</th>
+    <td><img src="icon/icon.svg" height="128" /></td>
+  </tr>
+</table>
+
+
 #### What is the policy for using the PharmGKB logo, icon and wordmark?
 
 The PharmGKB logo, icon and wordmark can only be used with permission by PharmGKB. They are designed to signify official PharmGKB products, activities, events, representatives, and facilities. It should never be used to promote or suggest endorsement of non-PharmGKB products, events, or services. It should never be used by outside parties to misrepresent the purpose, character, policies, or mission of PharmGKB.
