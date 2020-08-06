@@ -1,5 +1,7 @@
 # Trademark, Branding, and Logo
 
+__[Download all](https://github.com/PharmGKB/pgkb-branding/releases/latest)__
+
 <table>
   <tr>
     <th>Wordmark</th>
