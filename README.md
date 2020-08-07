@@ -2,7 +2,8 @@
 
 # Trademark, Branding, and Logo
 
-__[Download all](https://github.com/PharmGKB/pgkb-branding/releases/latest)__
+<a href="https://github.com/PharmGKB/pgkb-branding/releases/latest/download/logo.zip" download><img src="https://img.shields.io/badge/download-logo-brightgreen" /></a>
+<a href="https://github.com/PharmGKB/pgkb-branding/releases/latest/download/branding.zip" download><img src="https://img.shields.io/badge/download-all-blue" /></a>
 
 <table>
   <tr>
