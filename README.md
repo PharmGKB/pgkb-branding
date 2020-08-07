@@ -1,19 +1,14 @@
+<img src="logo.svg" height="128" />
+
 # Trademark, Branding, and Logo
 
 __[Download all](https://github.com/PharmGKB/pgkb-branding/releases/latest)__
 
 <table>
   <tr>
-    <th>Wordmark</th>
-    <td><img src="wordmark/wordmark.svg" height="128" /></td>
-  </tr>
-  <tr>
-    <th>Logo</th>
-    <td><img src="logo/logo.svg" height="128" /></td>
-  </tr>
-  <tr>
-    <th>Icon</th>
-    <td><img src="icon/icon.svg" height="128" /></td>
+    <td><img src="wordmark/wordmark.svg" height="64" /></td>
+    <td><img src="brandmark/brandmark.svg" height="96" /></td>
+    <td><img src="lettermark/lettermark.svg" height="96" /></td>
   </tr>
 </table>
 
