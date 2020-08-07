@@ -1,4 +1,4 @@
-<img src="logo.svg" height="128" />
+<img src="logo.svg" height="128" alt="logo" />
 
 # Trademark, Branding, and Logo
 
@@ -7,9 +7,9 @@
 
 <table>
   <tr>
-    <td><img src="wordmark/wordmark.svg" height="64" /></td>
-    <td><img src="brandmark/brandmark.svg" height="96" /></td>
-    <td><img src="lettermark/lettermark.svg" height="96" /></td>
+    <td><img src="wordmark/wordmark.svg" height="64" alt="wordmark" /></td>
+    <td><img src="brandmark/brandmark.svg" height="96" alt="brandmark" /></td>
+    <td><img src="lettermark/lettermark.svg" height="96" alt="lettermark" /></td>
   </tr>
 </table>
 
