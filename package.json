@@ -6,11 +6,12 @@
     "type": "git",
     "url": "https://github.com/PharmGKB/pgkb-branding.git"
   },
+  "packageManager": "yarn@4.4.1",
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.1",
-    "@semantic-release/git": "^10.0.1",
-    "conventional-changelog-conventionalcommits": "^4.6.3",
-    "semantic-release": "^19.0.2"
+    "@semantic-release/changelog": "6.0.3",
+    "@semantic-release/git": "10.0.1",
+    "conventional-changelog-conventionalcommits": "8.0.0",
+    "semantic-release": "24.1.0"
   },
   "release": {
     "branches": [
