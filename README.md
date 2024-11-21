@@ -14,6 +14,20 @@
 </table>
 
 
+<table>
+<tbody>
+<tr>
+<td style="color: white; background: #336699; font-family: monospace, monospace;padding: 2rem">#336699</td>
+<td>Logo Blue</td>
+</tr>
+<tr>
+<td style="color: white; background: #c9134a; font-family: monospace, monospace;padding: 2rem">#c9134a</td>
+<td>Logo Red</td>
+</tr>
+</tbody>
+</table>
+
+
 #### What is the policy for using the PharmGKB logo, icon and wordmark?
 
 The PharmGKB logo, icon and wordmark can only be used with permission by PharmGKB. They are designed
