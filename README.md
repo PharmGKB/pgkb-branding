@@ -17,12 +17,12 @@
 <table>
 <tbody>
 <tr>
-<td style="color: white; background: #336699; font-family: monospace, monospace;padding: 2rem">#336699</td>
-<td>Logo Blue</td>
+<td><img src="colors/logo_blue.svg" alt="logo blue" height="200" /></td>
+<td>Logo Blue<br />#336699</td>
 </tr>
 <tr>
-<td style="color: white; background: #c9134a; font-family: monospace, monospace;padding: 2rem">#c9134a</td>
-<td>Logo Red</td>
+<td><img src="colors/logo_red.svg" alt="logo red" height="200" /></td>
+<td>Logo Red<br />#c9134a</td>
 </tr>
 </tbody>
 </table>
