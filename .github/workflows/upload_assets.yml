@@ -12,13 +12,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Zip logo
+      - name: Zip PharmGKB logo
         run: |
-          zip logo.zip logo.svg logo.png
+          zip logo.zip PharmGKB/logo/logo.svg PharmGKB/logo/logo.png
 
-      - name: Zip branding
+      - name: Zip PharmGKB branding
         run: |
-          zip branding.zip  brandmark/* lettermark/* wordmark/* logo.png logo.svg
+          zip branding.zip  PharmGKB/brandmark/* PharmGKB/lettermark/* PharmGKB/wordmark/* PharmGKB/logo/*
 
       - name: Upload assets
         uses: svenstaro/upload-release-action@v2
