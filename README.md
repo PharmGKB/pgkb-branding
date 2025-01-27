@@ -21,12 +21,13 @@
 <img src="ClinPGx/logo/logo.svg" height="256" alt="ClinPGx logo" />
 
 
-## PharmGKB Logo, Trademark, Brandmark, and Logo
+## PharmGKB Logo, Trademark, Brandmark, and Lettermark
 
 <table>
   <tr>
     <td colspan="3"><img src="PharmGKB/logo/logo.svg" height="128" alt="PharmGKB logo" /></td>
   </tr>
+  <tr></tr>
   <tr>
     <td><img src="PharmGKB/wordmark/wordmark.svg" height="64" alt="PharmGKB wordmark" /></td>
     <td><img src="PharmGKB/brandmark/brandmark.svg" height="96" alt="PharmGKB brandmark" /></td>
