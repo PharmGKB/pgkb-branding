@@ -21,7 +21,7 @@
 <img src="ClinPGx/logo/logo.svg" height="256" alt="ClinPGx logo" />
 
 
-## PharmGKB Logo, Trademark, Brandmark, and Lettermark
+## PharmGKB Graphics
 
 <table>
   <tr>
@@ -36,9 +36,21 @@
 </table>
 
 
-## CPIC Logo
+## CPIC Graphics
 
-<img src="CPIC/logo/logo.svg" height="128" alt="CPIC logo" />
+<table>
+<tr>
+<td colspan="3"><img src="CPIC/logo/logo.svg" height="128" alt="CPIC logo" /></td>
+</tr>
+<tr></tr>
+<tr><td>
+<img src="CPIC/title/title.svg" height="128" alt="CPIC title" />
+</td><td>
+<img src="CPIC/brandmark/brandmark.svg" height="128" alt="CPIC brandmark" />
+</td><td>
+<img src="CPIC/wordmark/wordmark.svg" height="128" alt="CPIC wordmark" />
+</td></tr>
+</table>
 
 
 ## Q & A
